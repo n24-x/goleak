@@ -25,7 +25,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/n24-x/goleak/internal/stack"
+	"github.com/n24-x/goleak/stack"
 )
 
 // TestingT is the minimal subset of testing.TB that we use.

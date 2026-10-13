@@ -25,7 +25,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/n24-x/goleak/internal/stack"
+	"github.com/n24-x/goleak/stack"
 )
 
 // Option lets users specify custom verifications.
